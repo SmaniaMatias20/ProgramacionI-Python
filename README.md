@@ -1,17 +1,18 @@
-MATERIA: PROGRAMACIÓN I
+Materia: Programación I
+Lenguaje: Python
 
-LENGUAJE: PYTHON
+El primer cuatrimestre de Programación I fue una experiencia de aprendizaje intensa y enriquecedora. Desde escribir nuestros primeros programas hasta desarrollar aplicaciones más complejas, cada paso nos ayudó a entender mejor el mundo de la programación. Python se convirtió en una herramienta poderosa en nuestras manos, y adquirimos una base sólida que nos prepara para enfrentar desafíos más avanzados en el futuro. La mezcla de teoría y práctica nos proporcionó una comprensión integral de la programación y nos inspiró a seguir explorando y aprendiendo en este fascinante campo.
 
-DURANTE EL PRIMER CUATRIMESTRE DE PROGRAMACIÓN I, EXPLORAMOS VARIOS CONCEPTOS FUNDAMENTALES DE LA PROGRAMACIÓN UTILIZANDO EL LENGUAJE PYTHON. 
-
-TEMAS:
+Temas:
 
 - POO
-- TIPOS DE DATOS
-- ARCHIVOS
-- CADENAS
-- BURBUJEO
-- REGEX
-- FUNCIONES
+- Tipos de datos
+- Archivos
+- Cadenas
+- Burbujeo
+- Regex
+- Funciones
+
+
 
   
